@@ -12,7 +12,7 @@ DOI 혹은 아래의 인용양식을 이용해 인용해주십시오. [![DOI](ht
 ##### APA
 김병준. (2024). ByungjunKim/KoreanHistoryDatabase: 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.10660750
 ##### BibTex
-'''
+```BibTex
 @software{gimbyeongjun_2024_10660750,
   author       = {김병준},
   title        = {ByungjunKim/KoreanHistoryDatabase: 1.0},
@@ -23,4 +23,4 @@ DOI 혹은 아래의 인용양식을 이용해 인용해주십시오. [![DOI](ht
   doi          = {10.5281/zenodo.10660750},
   url          = {https://doi.org/10.5281/zenodo.10660750}
 }
-'''
+```
